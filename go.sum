@@ -2,3 +2,5 @@ github.com/baguskna/go-say-hello v1.0.0 h1:9kZgyKnPSKOaQ5XXlsDrDhbt6ZpezrNpejs+p
 github.com/baguskna/go-say-hello v1.0.0/go.mod h1:LQeDInDuzkjGNlISclYKOKv30RL7yZKBY7U60VllHBg=
 github.com/baguskna/go-say-hello v1.1.0 h1:cbph5RSCoZcpP477KxgBPGlOQDsYtHGigq6ID/qvNWE=
 github.com/baguskna/go-say-hello v1.1.0/go.mod h1:LQeDInDuzkjGNlISclYKOKv30RL7yZKBY7U60VllHBg=
+github.com/baguskna/go-say-hello/v2 v2.0.0 h1:WhSxoZjh943HJ2pYwl67uNgt75zi3Ash7hyoGmZi1Uw=
+github.com/baguskna/go-say-hello/v2 v2.0.0/go.mod h1:ZeH4cRt2Sd6E14GOUnH3tKD5n6E15KzU1ehVkNHhsj4=
